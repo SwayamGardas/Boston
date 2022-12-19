@@ -1,4 +1,4 @@
- web gunicorn app:appgit
+ web: gunicorn app:appgit
 
  
  
